@@ -18,6 +18,7 @@ Some of these would be considered raw data sources, while others (like relationa
 <em>Using the terms presented in </em>Exploring Big Historical Data <em>and other frameworks, how would you describe the different fields (or columns) in the Iowa Township Project data? How does understanding the type of data inform or shape the research questions you might have?</em>
 
 <hr />
+
 ## Ways We Organize Data
 
 Most of the data you’ll use for tutorials in this class will be downloaded as a file of already-structured data. The work that goes into gathering, describing, and organizing this data happened before the course so you would be able to focus on analyzing and visualizing these datasets.
@@ -135,6 +136,7 @@ meetings of the. Asst’i:iATio.\' if present</pre>
 What steps were necessary to transform the data from the original source to the text file? How much time do you think it took for this data to be wrangled into a text file?
 
 <hr />
+
 ## Ways We Get Data
 
 As the authors in <em>Exploring Big Historical Data </em>outline, historical data for digital history projects can come from a wide range of sources. Social Studies and Data Services Librarian <a href="https://www.grinnell.edu/users/bauderj">Julia Bauder</a> has created a <a href="https://libweb.grinnell.edu/sp/subjects/data">guide</a> to data sources available through the Grinnell Library. The Sociology Department’s Research Tools <a href="https://www.grinnell.edu/academics/areas/sociology/resources/research">webpage</a> compiled by David Cook-Martin also lists a number of data sources. Most of these data sources have already been organized and structured as data tables.
@@ -149,7 +151,6 @@ An web application programming interface (API) allows a user to interact with an
 <hr />
 
 ## Ways We Store Data
-&nbsp;
 
 Most of the data we will be using for tutorials and projects in this course exists as single CSV files. A Comma-separated values (CSV) file is a text file that uses commas to delineate fields of text. CSV files can be opened in spreadsheet programs like Microsoft Excel and text editors like Notepad. A text (TXT) file stores plain text data without any additional formatting or markup added by a word processing program like Microsoft Word.
 
@@ -158,6 +159,7 @@ Organizations like the <a href="https://www.loc.gov/preservation/digital/formats
 However, even though data can be stored in a stable file format for long-term preservation, those file types may not be the best way to interact with the data for analysis and visualization. For example, storing a large complex data set in a single CSV sheet might not be the most efficient way to analyze or visualize particular aspects or features of our data.
 
 <hr />
+
 ## Exploring the Iowa Township Data
 
 Navigate to \\storage\projects\HIS\HIS-295-02\Iowa_Township_Data\1870s\1870_Census_Data in File Explorer and open the 1870 Federal Census Grinnell Township file in Microsoft Excel.
@@ -179,6 +181,7 @@ Analyzing and visualizing data that exists in multiple linked tables, or a datab
 <hr />
 
 ## Ways We Analyze Data
+
 A useful way to think about data analysis is to differentiate or start to categorize the types of activities that can happen under the umbrella of data analysis. <strong><em>Measures</em></strong> can involve performing simple arithmetic functions like adding or counting. <em><strong>Calculations</strong> </em>involve transforming the data through a more complex mathematical operation or formula. A measure might count the total number of records or values in a category, while a calculation might determine an average or median for a particular combination of data features.
 
 Fields like "Number of...." in the 1870 Grinnell City Census file are an example of measures.
@@ -190,26 +193,30 @@ We can also think about the different between <em><strong>quantitative</strong> 
 
 <hr />
 
-&nbsp;
 ## Ways We Visualize Data
 
 To start exploring different types of data visualization, we can also think about the purpose or goal for why we are visualizing the data. Historical scholars can use data analysis to explain or illustrate. As data literacy scholar Enrico Bertini points out in <a href="https://medium.com/@FILWD/from-data-visualization-to-interactive-data-analysis-e24ae3751bf3">a Medium blog post</a>, “Data journalism has provided over the years most of the best contributions to the art of explaining complex things through data.” These types of data visualizations are often supported by narrative text and other types of analysis, research, and argumentation. In this scenario, the data visualization supports arguments made in other forms or modes of communication. The data analysis and visualization is driven or shaped by conclusions or arguments the author already has.
 
 In contrast, researchers are increasingly moving toward data visualization as a type of analysis. As Bertini puts it, “The main goal here is to extract information out of data with the purpose of answering questions and advancing understanding of some phenomenon of interest.” Maybe a researcher wants to analyze an unmanageably large body of materials, like entire newspaper runs from multiple publications. In another scenario, a researcher might want to bring together a range of data sets that require computation tools to connect, integrate, or synthesize disparate elements. For example, Cameron Blevins’s <a href="http://www.cameronblevins.org/research/">research on political structures of power in the western U.S.</a> involved building a database with information on more than 100,000 post offices—a data set so large that reading or analyzing it manually would have been of little use for building a larger historical argument based on the data.
 
+### Examples
+
 However, as the authors in <em>Exploring Big Historical Data </em>point out, visualizations can just as easily confuse or misrepresent users in their attempt to use digital tools to analyze data and build historical arguments. An entire subfield of data science is devoted to promoting data reasoning and data literacy skills—learn more by exploring the <a href="https://callingbullshit.org/case_studies.html">Calling Bullshit curriculum</a> developed by Carl Bergstrom and Jevin West at the University of Washington. The examples provided below are adapted from case studies in the Calling Bullshit curriculum.
 
-<a href="https://github.com/kwaldenphd/introduction-to-data/blob/master/screenshots/Pic4.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/introduction-to-data/blob/master/screenshots/Pic4.png?raw=true" alt="" width="494" height="343" /></a>
+<p align="center"><a href="https://github.com/kwaldenphd/introduction-to-data/blob/master/screenshots/Pic4.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/introduction-to-data/blob/master/screenshots/Pic4.png?raw=true" alt="" width="494" height="343" /></a></p>
 
-<blockquote>As an example, what data is being represented in this line graph? What are the calculations or measures represented in by the X and Y axes? What is your initial understanding of the data based on how it is represented in the graph? What concerns or questions do you have about the data and/or this visualization?</blockquote>
-<a href="https://github.com/kwaldenphd/introduction-to-data/blob/master/screenshots/Pic3.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/introduction-to-data/blob/master/screenshots/Pic3.png?raw=true" alt="" width="462" height="578" /></a>
+As an example, what data is being represented in this line graph? What are the calculations or measures represented in by the X and Y axes? What is your initial understanding of the data based on how it is represented in the graph? What concerns or questions do you have about the data and/or this visualization?
 
-<blockquote>As another example, what data is being represented in this line graph? What are the calculations or measures represented in by the X and Y axes? What is your initial understanding of the data based on how it is represented in the graph? What concerns or questions do you have about the data and/or this visualization?</blockquote>
-<a href="https://github.com/kwaldenphd/introduction-to-data/blob/master/screenshots/Pic2.jpg?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/introduction-to-data/blob/master/screenshots/Pic2.jpg?raw=true" alt="" width="472" height="437" /></a>
+<p align="center"><a href="https://github.com/kwaldenphd/introduction-to-data/blob/master/screenshots/Pic3.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/introduction-to-data/blob/master/screenshots/Pic3.png?raw=true" alt="" width="462" height="578" /></a></p>
 
-<blockquote>What data is being represented in this <a href="http://www.businessinsider.com/the-top-10-most-read-books-in-the-world-infographic-2012-12">bar chart from <em>Business Insider</em></a>? What are the calculations or measures represented in by the X and Y axes? What is your initial understanding of the data based on how it is represented in the graph? What concerns or questions do you have about the data and/or this visualization?</blockquote>
-<a href="https://github.com/kwaldenphd/introduction-to-data/blob/master/screenshots/Pic1.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/introduction-to-data/blob/master/screenshots/Pic1.png?raw=true" alt="" width="499" height="315" /></a>
+As another example, what data is being represented in this line graph? What are the calculations or measures represented in by the X and Y axes? What is your initial understanding of the data based on how it is represented in the graph? What concerns or questions do you have about the data and/or this visualization?
 
-<blockquote>What data is being represented in this bar chart from <a href="http://time.com/3935281/what-are-my-health-risk-factors/"><em>Time </em>magazine</a>? What types of measures or calculations are represented in this visualization? What types of visualization or representation are happening in this image? What is your initial understanding of the data based on how it is represented in the visualization? What concerns or questions do you have about the data and/or this visualization?</blockquote>
+<p align="center"><a href="https://github.com/kwaldenphd/introduction-to-data/blob/master/screenshots/Pic2.jpg?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/introduction-to-data/blob/master/screenshots/Pic2.jpg?raw=true" alt="" width="472" height="437" /></a></p>
+
+What data is being represented in this <a href="http://www.businessinsider.com/the-top-10-most-read-books-in-the-world-infographic-2012-12">bar chart from <em>Business Insider</em></a>? What are the calculations or measures represented in by the X and Y axes? What is your initial understanding of the data based on how it is represented in the graph? What concerns or questions do you have about the data and/or this visualization?
+
+<p align="center"><a href="https://github.com/kwaldenphd/introduction-to-data/blob/master/screenshots/Pic1.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/introduction-to-data/blob/master/screenshots/Pic1.png?raw=true" alt="" width="499" height="315" /></a></p>
+
+What data is being represented in this bar chart from <a href="http://time.com/3935281/what-are-my-health-risk-factors/"><em>Time </em>magazine</a>? What types of measures or calculations are represented in this visualization? What types of visualization or representation are happening in this image? What is your initial understanding of the data based on how it is represented in the visualization? What concerns or questions do you have about the data and/or this visualization?
 
 Chapter 5 in <em>Exploring Big Historical Data </em>includes examples and explanations for a range of chart types. The Calling Bullshit website also walks through the common pitfalls or considerations for different chart types by looking at issues with <a href="https://callingbullshit.org/tools/tools_misleading_axes.html">axes</a> and <a href="https://callingbullshit.org/tools/tools_proportional_ink.html">proportional ink</a>.
