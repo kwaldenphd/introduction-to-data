@@ -1,0 +1,162 @@
+ObjectID,Last name,First name of male householder,First name of female householder,GIS Link - 1870 Census,Age of male householder,Age of female householder,Occupation of male householder,Occupation of female householder,First names of other family members,Full names of unrelated persons living in HH,Total number of persons in HH,Number of related adults,Number of unrelated adults,Number of males aged 18-64,Number of females aged 18-64,Number of males 65 and over,Number of females 65 and over,Number of males aged 5-17,Number of females aged 5-17,Number of males under age 5,Number of females under age 5,Number enrolled in school or college ,"Is any member of the family aged 18 and above unable to read and write? (1=yes, 0=no)",Race of family,Head of household and spouse born in U.S. (1),Parents of head of household and spouse born in U.S. (2),Head of household and spouse born in Iowa (3),"Place of birth of male householder (2-letter abbreviations for U.S. states, ""England,"" ""Scotland,"" ""Germany,"" ""Holland"")","Place of birth of female householder (2-letter abbreviations for U.S. states, ""England,"" ""Scotland,"" ""Germany,"" ""Holland"")","Married in the last year (1=yes, 0=no)","At least one member of the household born in England (1=yes, 0=no)","At least one member of the household born in Scotland (1=yes, 0=no)","At least one member of the household born English Canadian (1= yes, 0 =no)","At least one member of the household born in Germany (1=yes, 0=no)","At least one member of the household born in Ireland (1=yes, 0=no)","At least one member of the household born in Denmark (1=yes, 0=no)","At least one member of the household born in Holland. (1=yes, 0=no)","At least one member of the household born in France (1=yes, 0=no)","At least one member of the household born in Norway (1=yes, 0=no)","At least one member of the household born in Sweden (1=yes, 0=no)","At least one member of the household born in Austria-Hungary (1=yes, 0=no)",Value of real estate owned (in US$) ,Value of personal estate (in US$),"Deaf and dumb, blind, Insane, or idiotic?  (0=no)","Male who can vote (over 21, US citizen) (Y or N; If N right to vote abridged?)"
+,Alager,A.,Julia,79001,30,28,Farmer,Keeping the House,"John, Edwin, Christie",0,5,4,0,1,2,1,0,0,0,1,0,0,1,W,0,0,0,Norway,Norway,0,0,0,0,0,0,0,0,0,1,0,0,1600,700,0,N/N
+,Altig,Henry,Amanda,,48,49,Farmer,Keeping the House,"Elizabeth, Eliza J., Adolthur, Perry ",0,6,4,0,1,3,0,0,2,0,0,0,2,0,W,1,1,0,OH,LA,0,0,0,0,0,0,0,0,0,0,0,0,1500,1000,0,Y
+,Anderson,Isaac,Anna,,43,39,Farmer,Keeping the House,"Sarah A., Charles W., Edison C., Isaac F., Luella",0,7,2,0,1,1,0,0,3,2,0,0,3,0,W ,1,1,0,OH,OH,0,0,0,0,0,0,0,0,0,0,0,0,5000,3000,1,Y
+,Atwood,Edwin,Mary,,30,21,Farmer,keeping house,"Jules, Alfred",Samuel Thompson,5,2,1,2,1,0,0,0,0,2,0,0,0,W,1,1,0,VT,IL,0,0,0,0,0,0,0,0,0,0,0,0,2500,1100,0,Y
+,Baggs,Robert,Mary ,,71,68,Retired Farmer,Keeping the House,"George Y., Charles G., Emma, Walter E.",0,6,5,0,2,1,1,1,0,0,1,0,0,0,W,0,0,0,England,England,0,1,0,0,0,0,0,0,0,0,0,0,3000,600,0,3Y
+,Bahrenfuse,Brothan,Lucy,,60,53,Farmer,Keeping the House,"John, Lizzie, Henry ",P. Wick,6,2,1,2,1,0,0,2,1,0,0,0,0,W,0,0,0,Denmark,Denmark,0,0,0,0,1,0,1,0,0,0,0,0,5000,1000,0,Y/N
+,Bailey,James F.,Correlia H.,79002,54,45,Farmer,Keeping the House,"Joana E., Ella C., Irene E., Gertude L., Jennie, Willie H.",William Mass,9,4,1,2,3,0,0,0,3,1,0,2,0,W,1,1,0,NY,NY,0,0,0,0,0,0,0,0,0,0,0,0,12000,2500,0,Y
+,Bailey,Matthew ,,,47,,Farmer,,"Kate, Abram, Anthony",0,4,2,0,1,1,0,0,2,0,0,0,2,0,W,1,1,0,IN,,0,0,0,0,0,0,0,0,0,0,0,0,8000,3000,0,Y
+,Banghart ,Phillip,Sarah A.,,65,61,Farmer,Keeping the House,Matthew H.,"George Boston, Mary A. Banghart ",5,3,1,2,2,0,0,1,0,0,0,1,0,W ,1,1,0,PA,NJ,0,0,0,0,0,0,0,0,0,0,0,0,1600,300,0,Y
+,Barnes ,Charles,Lucritia,,31,52,Farmer,Keeping the House ,"Clara, Charles E.","Evaline Morse, F. E. Barnes ",6,2,2,2,2,0,0,1,1,0,0,1,0,W,1,1,0,OH,NY,0,0,0,0,0,0,0,0,0,0,0,0,2800,600,0,2Y
+,Barns,Francis ,Rachel,,55,57,Farmer,Keeping the House,"Henry S., Anna ",Rachel R. Stiles ,5,4,0,2,1,0,1,0,1,0,0,1,0,W,1,1,0,OH,OH,0,0,0,0,0,0,0,0,0,0,0,0,6500,1500,,
+,Bartlett ,E.S,N.S,,38,34,Farmer,keeping house,"arthur, estella","Rhoda Moore, Frank Moore",6,2,2,1,2,0,0,2,0,0,1,0,0,W,1,1,0,NH,NH,0,0,0,0,0,0,0,0,0,0,0,0,4500,1800,0,Y
+,Bird ,Burtis ,Rachel,,47,45,Farmer,Keeping the House,"Lizzie , Thomas, Ellen, Jennie ",0,6,4,0,2,2,0,0,0,2,0,0,3,0,W,1,1,0,NJ,IN,0,0,0,0,0,0,0,0,0,0,0,0,2500,600,0,Y
+,Bixby,J.K. ,Mary,,34,32,Farmer,Keeping the House,"Ellen, Belle, May, Willie, Sumner",0,7,3,0,2,1,0,0,0,2,1,1,1,0,W,1,1,0,ME,OH,0,0,0,0,0,0,0,0,0,0,0,0,10350,2000,0,2Y
+,Blackwell,Noah,Sarah,,53,50,Farmer,Keeping the House,"Samuel H., Lydia F., Forest",De nito McArthur ,6,4,1,3,2,0,0,0,0,1,0,0,0,W,1,1,0,ME,ME,0,0,0,0,0,0,0,0,0,0,0,0,4000,1700,0,3Y
+,Blakely,S.E,Mary,,40,43,Farmer,keeping house,A.J.," Mary Karrington, Eliza Karrington, Jessie Sparks, William Karrington,Gue Johnson, Andrew Anburg",9,3,6,6,3,0,0,0,0,0,0,0,0 (2 unrelated illiterate),W,1,1,0,VT,PA,0,0,0,1,0,0,0,0,0,0,1,0,"15000 (A.J. 10,000)",7700 (AJ 7752),0,SEY/ AJY/ Jessie Y/William Y/ GueNN/ Andrew NN
+,Bliss ,Harry,Elenora,79003,46,46,Farmer,Keeping the House,"Frank, Louisa, Silas, Edwin C. ",0,6,3,0,2,1,0,0,2,1,0,0,4,0,W,1,1,0,MA,MA,0,0,0,0,0,0,0,0,0,0,0,0,5000,1500,0,Y
+,Bobeck,Peter,Irene,,36,27,Farmer,Keeping the House,"Ella, James",Andrew Benson,5,2,1,2,1,0,0,0,1,1,0,0,1,W,0.5,0.5,0,Germany,IL,0,0,0,0,1,0,0,0,0,0,0,0,800,500,0,Y
+,Bodi?,James C.,Mary E. ,,34,36,Farmer,Keeping the House,"Susan, Deborah","Charles Swarthout, Reymer Palmer",6,4,1,2,3,0,0,1,0,0,0,0,0,W,1,1,0,NY,NY,0,0,0,0,0,0,0,0,0,0,0,0,N/A,700,0,2Y
+,Bradbury,N/a,Mary,,n/a,45,n/a,Keeping the House ,0,A.N. Park,2,1,1,1,1,0,0,0,0,0,0,0,0,W,0.5,1,0,N/a,ME,0,0,0,0,0,0,0,0,0,0,0,0,1000,500,0,Y
+,Bradford ,William,Lucia,,48,49,Farmer,keeping house,Emilia,"Coddington D, Otto Johnson, Lewis Johnson",6,2,3,4,2,0,0,0,1,0,0,1,1,W,1,1,0,NY,NY,0,0,0,0,0,0,0,0,0,0,0,0,1300,250,0,N
+,Brown,Henry,Sarah J.,79005,28,26,Farmer,Keeping the House,"Lewis E., Birney E.","John Clayborn, Benjamin Johns, Henry Pitman, Sarah Robney, M. Swanson, Fred Pitman ",10,2,4,5,1,0,0,0,2,2,0,2,0,W,0.5,0.5,0,England,PA,0,1,0,0,0,0,0,0,0,0,0,0,N/A,250,0,All Y
+,Brown,Hiram,Clarinda,,41,39,Farmer,Keeping the House,"M.G., A. A., Anna E., Clara A., ","Richard King, Eli H. Bratt",8,3,2,4,1,0,0,1,1,0,1,3,0,W,1,1,0,OH,NY,0,0,0,0,0,1,0,0,0,0,0,0,3600,2000,0,3Y
+,Brown,Jerry,Martha,79004,40,38,Farmer ,Keeping the House ,"George, Edgar C., Walter, Sarah J",Frank Reynolds,6,2,1,2,1,0,0,3,0,0,1,3,1,W,1,1,0,NH,VT,0,0,0,0,0,1,0,0,0,0,0,0,8000,1700,0,Y 
+,Burger,Samuel,Emily H.,,35,35,Runs Boarding house for Railroad workers ,keeping house,"Charles, Nettie","John Duran, George Duran, David McGee, M. Bank, J. Whalan, John Brown, R. Grinnell, R. Neary, M. Nobre, J. Hall, W. Arvin",15,2,11,10,1,0,0,1,0,0,1,1,1,W,1,1,0,OH,OH,0,0,1,0,0,1,0,0,0,0,0,0,250,750,0,3Y/7N
+,Burlow ,P. M. ,Sarah ,,37,33,Farmer,Keeping the House,"Fred E., Emmet, Charles ","Alfred Clifford, E. M. Johnson",7,2,2,3,1,0,0,1,0,2,0,1,0,W ,1,1,0,NY,NY,0,0,0,0,0,0,0,0,0,0,0,0,9600,1335,0,Y
+,Burton,P.D. ,Rulie,79006,29,30,Farmer,Keeping the House,"Elizabeth, William, Theodore ","Edwin Cahow, J.M. McLonely",7,5,2,5,2,0,0,0,0,0,0,2,0,W,1,1,0,OH,OH,0,0,0,0,0,0,0,0,0,0,0,0,4000,1000,0,3Y
+,Byerly,Henry,Ellen,79007,50,44,Farmer ,Keeping the House ,"Perry P., Jamie M., Minnie, Theodore ",0,6,2,0,1,1,0,0,3,1,0,0,4,0,W,1,1,0,PA,MD,0,0,0,0,0,0,0,0,0,0,0,0,1500,800,0,Y
+,Campbell,Aaron,Mimmi,,37,37,Farmer,Keeping the House,"Willie, Sarah, Albert","Abiga King, Manada Easton",7,2,1,2,1,0,0,1,2,1,0,0,0,W ,1,1,0,NY,PA,0,0,0,0,0,0,0,0,0,0,0,0,3500,970,0,Y
+,Cass ,L. M. ,Hannah,,62,62,Retired Farmer ,keeping the house,"Nason N., Emma B., Elmer E., Lewis M. ",Carrie Ingerson,7,4,1,2,2,0,0,2,0,0,0,2,0,W,1,1,0,NH,NH,0,0,0,0,0,0,0,0,0,0,0,0,9500,2500,0,Y/Y
+,Christopher,Stephen,Anna,,36,35,Farmer,Keeping the House,"Lewis, Jennie",0,4,2,0,1,1,0,0,1,0,0,1,0,0,W,0,0,0,Norway,Norway,0,0,0,0,0,0,0,0,0,1,0,0,800,300,0,Y
+,Christopher,N/a,Ann,,N/a,36,N/a,Keeping the House ,Jennie ,"Henjamin Gould, Sarah, Isaac, Ellen, Charles, Frank, Kittie",9,1,4,2,3,0,0,2,0,0,2,2,0,W,0,0,0,N/A,Norway,N/A,0,0,0,0,0,0,0,0,1,0,0,800,N/A,0,Y
+,Clark,R.M. ,Caroline T.,,37,33,Farmer ,Keeping the House ,"Alice M., Lydia J., Lucy E. ",0,5,2,0,1,1,0,0,0,2,0,1,2,0,W,1,1,0,ME,ME,0,0,0,0,0,0,0,0,0,0,0,0,8200,2500,0,Y
+,Colburt,Robert,Ellen,,28,24,Farmer,Keeping the House,William g.,W. W. Granger,4,2,1,2,1,0,0,0,0,1,0,0,0,W,0,0,0,Ireland,Canada East,0,0,0,1,0,1,0,0,0,0,0,0,1000,550,0,2Y
+,Cooper,S. T. ,Margarett J.,,43,41,Lawyer,Keeping the House ,George,"Alice Soughridge, Kate Soughridge, Ida Soughridge ",6,2,2,1,3,0,0,1,1,0,0,2,0,W,1,1,0,MA,OH,0,0,0,0,0,0,0,0,0,0,0,0,15000,10000,0,Y
+,Corr,V.S.,Mary A.,,53,54,Farmer,Keeping the House,"Job, William, Mary",Maria Pierce,6,2,1,1,2,0,0,2,1,0,0,3,0,W,1,1,0,OH,PA,0,0,0,0,0,0,0,0,0,0,0,0,5000,1500,0,Y
+,Coy,Pierce ,Maria,,40,34,Farmer,Keeping the House ,"Louisa, Proctor","Loritta Cratty, Frank Croper, Perry Raridan ",7,2,2,3,1,0,0,1,1,1,0,0,0,W,1,1,0,NY,NC,0,0,0,0,0,0,0,0,0,0,0,0,N/A,10000,0,3Y
+,Dale,David,Elizabeth,79008,40,40,Farmer,Keeping the House,"Margrett, Joesph, Matthew, Thomas, Sarah Oakley",0,7,3,0,1,2,0,0,3,1,0,0,4,0,W,1,1,0,IN,KY,0,0,0,0,0,0,0,0,0,0,0,0,3000,600,0,Y
+,Desch,A.N.,Sarah E.,79009,33,22,Farmer,Keeping the House ,"Amillia, Mary E.",Herburt ,5,2,1,2,1,0,0,0,0,0,2,0,0,W,1,1,0,PA,OH,0,0,0,1,0,0,0,0,0,0,0,0,,,0,Y
+,Desch,W.H.,Elizabeth,,37,27,Farmer,Keeping the House,"Isabelle, Stephen H., Will S., Benson G., Laura, Nancy S., George W. ",0,9,2,0,1,1,0,0,3,1,1,2,4,0,W,1,1,0,PA,PA,0,0,0,0,0,0,0,0,0,0,0,0,4500,1500,0,Y
+,Desch,Marcus ,Amanda,,29,19,Farmer,Keeping the House,0,"N.J. Harris, Luca A. Harris, Albert C. Harris, Minnie Harris, George Simpson, Louis Simpson, Lottie Labaff",9,2,4,4,2,0,0,0,1,1,1,0,0,W,1,1,0,PA,IL,0,0,0,0,0,0,0,0,0,0,0,0,N/A,600,0,3Y
+,Dickenson,K. ,N. A. ,79010,62,57,Farmer,keeping the house,"John W., Ellen, William M., John C., Nancy Cass",0,7,5,0,2,2,0,1,0,0,2,0,0,0,W ,1,1,0,NH,NH,0,0,0,0,0,0,0,0,0,0,0,0,300,1310,0,Y
+,Ditzley,George,Sarah,,41,30,Farm Laborer,keeping house,"David, Carrie, ?(3)",0,7,2,0,1,1,0,0,2,2,0,1,3,0,W,1,1,0,OH,IN,0,0,0,0,0,0,0,0,0,0,0,0,100,347,0,Y
+,Downy,Matthew ,Margrett,79011,44,30,Farmer,Keeping the House,"Harriett, Minnie, George, Carl",0,6,2,0,1,1,0,0,0,1,1,2,1,0,W,1,1,0,CT,IL,0,0,0,0,0,0,0,0,0,0,0,0,2500,600,0,Y
+,Ellie,Owen,Mary,,25,30,Farmer,keeping house,Mary Hoplee (daughter) Dolhue (son),0,4,2,0,1,1,0,0,0,1,1,0,1,0,W,1,1,0,NY,NY,0,0,0,0,0,0,0,0,0,0,0,0,NA,350,0,Y
+,Ellington ,Thomas ,Elizabeth,,55,40,Bricklayer ,Keeping the House,Henry,0,3,2,0,1,1,0,0,1,0,0,0,0,0,W,0,0,0,England,England,0,1,0,1,0,0,0,0,0,0,0,0,3000,700,0,N
+,Ellis,Nathaniel,Ann E.,,67,60,Farmer,Keeping the House,"William M., Mary A., Fanny M.",0,5,4,0,1,2,1,0,0,1,0,0,0,0,W,1,1,0,MA,MA,0,0,0,0,0,0,0,0,0,0,0,0,3000,1000,0,2Y
+,Ellis,Solomon,Susan,,60,57,Farmer,Keeping the House,"Catharine, Jerusha, Martha",0,5,2,0,1,1,0,0,0,3,0,0,3,0,W,1,1,0,NY,NY,0,0,0,0,0,0,0,0,0,0,0,0,4000,1000,0,Y
+,Fancloth? ,M.V,?,,33,32,Farmer,keeping house,"?, nancy, mary, jack, ?",0,8,2,0,1,1,0,0,2,2,2,1,3,0,W,1,1,0,NC,IN,0,0,0,0,0,0,0,0,0,0,0,0,NA,800,0,Y
+,Fancloth? ,A. P.,Nancy,,24,25,Farm Laborer,keeping house,"Daniel, Matilda, Nancy",0,5,2,0,1,1,0,0,0,0,1,2,0,0,W,1,1,0,NC,IN,0,0,0,0,0,0,0,0,0,0,0,0,NA,200,0,Y
+,Fisher,G. P. ,Nancy ,,45,46,Farmer,Keeping the House ,0,0,2,2,0,1,1,0,0,0,0,0,0,0,0,W,1,1,0,OH,OH,0,0,0,0,0,0,0,0,0,0,0,0,1500,600,0,Y
+,Forbes,Darwin,Emiline,,63,60,Farmer,Keeping the House,"Proctor, Bertie",0,4,3,0,2,1,0,0,1,0,0,0,1,0,W,1,1,0,NH,NH,0,0,0,0,0,0,0,0,0,0,0,0,6500,2500,0,2Y
+,Foristall,Daniel,Lydia,79012,47,48,Farmer,Keeping the House,Daniel E.,0,3,2,0,1,1,0,0,1,0,0,0,1,0,W,1,1,0,NH,NH,0,0,0,0,0,0,0,0,0,0,0,0,5000,2000,0,Y
+,Fuller,S.D.,Mary,,44,43,Farmer,Keeping the House,"E.C., Clarence, Grace",0,5,2,0,1,1,0,0,2,1,0,0,3,0,W,1,1,0,NY,NY,0,0,0,0,0,0,0,0,0,0,0,0,6000,3000,0,Y
+,Glover,Warren,Elaina ,,40,40,Farmer,Keeping the House,"Warren A., Charles E., Floyd O.",0,5,2,0,1,1,0,0,2,0,1,0,2,0,W,1,1,0,NH,NH,0,0,0,0,0,0,0,0,0,0,0,0,2400,900,0,Y
+,Goodrich,Abram,Harriett ,79013,47,47,Farmer,Keeping the House,Joseph C,0,3,2,0,1,1,0,0,1,0,0,0,1,0,W,1,1,0,VT,NH,0,0,0,0,0,0,0,0,0,0,0,0,5000,2000,0,Y
+,Gould,Joesph,Joana,,49,42,Nurseryman,Keeping the House,"Clara, George, Chas, William, Nellie, Mabel",0,8,2,0,1,1,0,0,3,1,0,2,4,0,W,1,0,0,VE,VE,0,0,0,0,0,0,0,0,0,0,0,0,3000,500,0,Y
+,Grinnell ,L.P. ,Harriett ,79014,45,35,Farmer ,Keeping the House ,"Lucy W., George W.",0,4,2,0,1,1,0,0,0,1,1,0,1,0,W,1,1,0,VT,NH,0,0,0,0,0,0,0,0,0,0,0,0,4300,1400,0,Y
+,Hammond ,C. G. ,Sylvia ,,35,33,Farmer,Keeping the House,"Maria, Anna, Frank ","N. F. Noble, Nancy Millsafe, John O. Booth, Jane A. Booth",9,2,4,3,3,0,0,0,2,1,0,2,0,W ,1,1,0,MA,VT,0,0,0,0,0,0,0,0,0,0,0,0,N/A,700,0,Y
+,Harding,J.B.,C.E.,,23,18,Carpenter,Keeping the House,0,0,2,2,0,1,1,0,0,0,0,0,0,0,0,W,1,1,0,OH,IA,1,0,0,0,0,0,0,0,0,0,0,0,500,150,0,Y
+,Hawk ,D.W. ,Sarah,,37,34,Farmer,Keeping the House,"Sadilla A., Eda C., B.S., F.M., N.E., Laura E., Loyal",0,9,2,0,1,1,0,0,3,2,1,1,5,0,W,1,1,0,OH,PA,0,0,0,0,0,0,0,0,0,0,0,0,5000,750,0,Y
+,Higby ,David,Anna,,23,32,Farmer ,Keeping the House ,"Frank B., Mary ",0,4,2,0,1,1,0,0,1,0,0,1,1,0,W,1,1,0,OH,OH,0,0,0,0,0,0,0,0,0,0,0,0,4100,1500,0,Y
+,James,Daniel,,79015,37,,Farmer,,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,W,1,1,0,NY,,0,0,0,0,0,0,0,0,0,0,0,0,3000,700,0,Y
+,Jenki?,N.,Angelica,79016,41,32,Farmer,Keeping the house,"Ambrose, Eldora, Isabella, Mary, Elda","Sewart Slairah, Lee Barico",9,2,2,3,1,0,0,1,3,0,1,4,1,W,1,1,0,VA,IN,0,0,0,0,0,0,0,0,0,0,0,0,20000,17000,0,Y
+,Jones ,P.V.,E. Lauwia,79017,57,42,Farmer,Keeping the House,"Marcus E., Charles T., Carrie, Edward P., Lucien, Lyndel, Burton",0,9,3,0,2,1,0,0,4,1,1,0,5,0,W,1,1,0,OH,OH,0,0,0,0,0,0,0,0,0,0,0,0,4000,1000,0,Y
+,Judkins,,Lucietian,,,55,,Keeping the House ,"Frank, Lilly, Sarah, Matthew, Mia",John Bettle ,7,2,1,2,1,0,0,1,3,0,0,4,0,W,1,1,0,,VT,0,0,0,1,0,0,0,0,0,0,0,0,N/A,100,0,Y
+,Kasoon,Jackson H.,Mary S.,79018,53,57,Farmer ,Keeping the House ,"Joseph R., Frank H., Janer L.",0,5,3,0,2,1,0,0,2,0,0,0,3,0,W,1,1,0,NY,CT,0,0,0,0,0,0,0,0,0,0,0,0,16000,2250,0,Y
+,Kelsey ,G.D.,Lucy L,,43,37,Life and Fire Insurance Agent ,Keeping the House ,"J.D., Charlie L., J.M., Kate M., Frank S., William R., Anna M., Mary, (Infant)",Carrie Sangworthy ,12,2,0,1,1,0,0,5,2,0,3,6,0,W,1,1,0,NY,NY,0,0,0,0,0,0,0,0,0,0,0,0,3500,500,0,Y
+,Kelso,James A.,Mary,,31,31,Farmer,keeping house,"Ennis, infant",0,4,2,0,1,1,0,0,0,0,2,0,0,0,W,1,1,0,IL,OH,0,0,0,0,0,0,0,0,0,0,0,0,NA,650,0,Y
+,Knapp,Matthew ,Martha,,45,42,Farmer,Keeping the House,0,Albert Nays,3,2,0,1,1,0,0,1,0,0,0,1,0,W,1,1,0,PA,NY,0,0,0,0,0,0,0,0,0,0,0,0,2400,1000,0,Y
+,Knight,Brian,Mary,,26,19,Works on the Railroad ,keeping house,Leonard ,Leonard Smith,4,3,0,1,1,1,0,0,0,1,0,0,0,W,1,1,0,NY,IL,0,0,0,0,0,0,0,0,0,0,0,0,N/A,350,0,Y
+,Koestar,M,,,45,,Carpenter,,0,Julius Weeber,2,1,1,2,0,0,0,0,0,0,0,0,0,W,0,0,0,Holstein (Germany),N/A,N/A,0,0,0,1,0,0,0,0,0,0,0,1600,1000,0,Y/N
+,Konebel,Jacob,Maria,79019,39,33,Farmer ,Keeping the House ,"Louisa, Mary E., Matilda, Clara H.","Frances Mayer, Rauhart Wever ",8,2,2,2,2,0,0,0,3,1,0,0,1,W,0,0,0,Prussia (Germany),Prussia (Germany),0,0,0,0,1,0,0,0,0,0,0,0,7000,1300,0,Y/N
+,Lalimer,N. G.,J.R. ,,51,49,Farmer,Keeping the House ,"Matthew A., G.R., D.T., John F., Mary E., S. G. Nathanial Lalimer, Nancy Lalimer",Nancy Rutledge,11,6,0,3,1,1,1,3,1,0,0,6,0,W,1,1,0,TN,KY,0,0,0,0,0,0,0,0,0,0,0,0,10000,2000,1,2Y
+,Lang ,John,,,43,29,Farmer ,Keeping the House ,"aronda, Sherman, Newton, Mariah, Charlie, Lizzie, Julia",0,8,2,0,2,0,0,0,2,1,1,2,4,0,W,1,1,0,NH,,0,0,0,0,0,0,0,0,0,0,0,0,N/A,1000,0,Y
+,Lashire,William,Belsey,,50,39,Farmer,Keeping the House,"William H., Perry, Albert, Ursula",Robert Armstrong,7,2,1,3,1,0,0,2,1,0,0,4,0,W,1,1,0,NY,NY,0,0,0,0,0,0,0,0,0,0,0,0,N/A,1000,0,Y
+,Leighton,Stephan,Ella,,37,31,Farmer,Keeping the House ,Lilla,0,3,2,0,1,1,0,0,0,1,0,0,1,0,W,1,1,0,VT,VT,0,0,0,0,0,0,0,0,0,0,0,0,,,0,Y
+,Mack ,Henry,,,30,,Famer,,Maria N.,"Sarah M. Sittlee, Warren Sittlee, Charles S. Sittlee",5,2,2,2,1,0,1,1,0,0,0,1,0,W,1,1,0,MA,MA,0,0,0,0,0,0,0,0,0,0,0,0,8000,15000,0,2Y
+,Main,Martin,Amanda,,23,30,Farmer,Keeping the House,0,"J.C. Grinnell, Agushafon",4,2,2,3,1,0,0,0,0,0,0,0,0,W,1,1,0,NY,NY,0,0,0,0,0,0,0,0,0,0,1,0,N/A,100,0,Y
+,Marona,H. S. ,Hannah,,43,43,Farmer ,Keeping the House ,"John P., Frank P., Shepperd",Matthew Ruthuer ,6,3,1,3,1,0,0,2,0,0,0,2,1,W,1,1,0,NY,NY,0,0,0,0,1,0,0,0,0,0,0,0,6500,5000,0,3Y
+,Marsh,Charles,Melinda,79020,24,21,Farmer,keeping house,0,0,2,2,0,1,1,0,0,0,0,0,0,0,0,W,1,1,0,VT,NY,1,0,0,0,0,0,0,0,0,0,0,0,3000,600,0,Y
+,Masman,Ezekial,Abigail ,,67,63,Farmer,Keeping the House,Alphie,0,3,3,0,1,1,1,0,0,0,0,0,0,0,W,1,1,0,MA,ME,0,0,0,0,0,0,0,0,0,0,0,0,N/A,1100,0,2Y
+,Mattison,Janice,Eliza,,23,24,Farmer ,Keeping the House ,0,0,2,2,0,1,1,0,0,0,0,0,0,0,0,W,1,1,0,IA,PA,1,0,0,0,0,0,0,0,0,0,0,0,N/A,250,0,Y
+,McElwain,John,Malisa,,32,33,Farmer,Keeping the House,"Martha, Christopher",0,4,2,0,1,1,0,0,0,1,1,0,1,0,W,1,1,0,IL,OH,0,0,0,0,0,0,0,0,0,0,0,0,N/A,200,0,Y
+,McIntyre ,Lewis ,Irene,,39,35,Farmer,Keeping the House,"Cory, Immogene ",0,4,2,0,1,1,0,0,1,1,0,0,2,0,W ,1,1,0,ME,ME,0,0,0,0,0,0,0,0,0,0,0,0,4000,1500,0,Y
+,meacham,S,,,69,,Farmer,,melom? Emily,Sabrina Ottman and Lewis Blackwill,5,3,2,1,2,1,0,1,0,0,0,1,0,W,1,1,0,NY,NY,0,0,0,0,0,0,0,0,0,0,0,0,5000,3000,0,Y
+,Mealman,Andrew,Olive,,26,20,Farmer,keeping house,"Joseph, Flora",0,4,2,0,1,1,0,0,0,0,1,1,0,0,W,1,1,0,IL,IL,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0,Y
+,Merrill ,R.G.C.,Sophia W. ,,53,47,Farmer,Keeping the House ,"John W., Gidion W., Burton G.",0,5,4,0,3,1,0,0,1,0,0,0,1,0,W,1,1,0,VT,VT,0,0,0,0,0,0,0,0,0,0,0,0,12000,3617,0,3Y
+,Milliman,J. M.,Ann B. ,,36,34,Farmer,keeping the house,N. W. ,Robert McCay ,4,2,0,1,1,0,0,1,0,1,0,0,0,W,1,1,0,NY,NY,0,0,0,0,0,0,0,0,0,0,0,0,2640,1200,0,Y
+,Mills,,Louisa A.,,,44,,Keeping the House,"Alice J., Farameid ",0,3,3,0,1,2,0,0,0,0,0,0,0,0,W,1,1,0,,NY,0,0,0,0,0,0,0,0,0,0,0,0,3000,1200,0,0
+,Morrell,M. K.,Emma,,36,35,Farmer ,Keeping the House ,"Isabel, Lieves ",James Little ,5,2,1,2,1,0,0,1,1,0,0,2,0,W,1,1,0,VT,VT,0,0,0,1,0,0,0,0,0,0,0,0,7000,2000,0,2Y
+,Morro,Samuel,Rebecca,,51,46,Farmer,Keeping the House,"Alexander, Rebecca, David, James, Margarett",0,7,3,0,2,1,0,0,2,2,0,0,3,0,W,0,0,0,Ireland,Ireland,0,0,0,0,0,1,0,0,0,0,0,0,N/A,350,0,Y
+,Mossman,Wilber,Sottie,,21,20,Farmer,Keeping the House,0,0,2,2,0,1,1,0,0,0,0,0,0,0,0,W,1,1,0,OH,VT,0,0,0,0,0,0,0,0,0,0,0,0,N/A,300,0,Y
+,Murcott,H.B.,Sylvia ,,40,36,Farmer,Keeping the House,"Clayton, Fredm Hatta, Mable ",M.J. Warren ,7,2,1,2,1,0,0,2,1,0,1,2,0,W,1,1,0,NY,NY,0,0,0,0,0,0,0,0,0,0,0,0,4800,1000,0,Y
+,Nairig,Orlin,Delia,,39,35,Brick Maker ,Keeping the House ,"Frank, Isabell, Cora, James, Eddie, Birt ",0,8,2,0,1,1,0,0,3,2,1,0,4,0,W,1,1,0,MI,NY,0,0,0,0,0,0,0,0,0,0,0,0,N/A,400,0,Y
+,Newton,Charles ,Racheal ,79021,36,31,Farmer,keeping the house,"Anna, Ella, Lucy",0,5,2,0,1,1,0,0,0,1,0,2,1,1,W ,0,0,0,Norway,Norway,0,0,0,0,0,0,0,0,0,1,0,0,4600,1200,0,Y
+,Noah,James L.,Elizabeth,,29,20,Farmer ,Keeping the House,"Lawerence, Sufant ",0,4,2,0,1,1,0,0,0,0,2,0,0,0,W,1,1,0,PA,NC,0,0,0,0,0,0,0,0,0,0,0,0,N/A,500,,
+,Noble ,"James M,",Malissa,,25,21,Farmer,Keeping the House,"Levi A., Ellen B. ",0,4,2,0,1,1,0,0,0,0,1,1,0,0,W ,1,1,0.5,IA,MI,0,0,0,0,0,0,0,0,0,0,0,0,250,N/A,0,Y
+,Nowell,Fred,Margarett,,32,27,Farmer,Keeping the House,"Nancy, Frank, Alfred, Effie",0,6,2,0,1,1,0,0,0,1,2,1,1,0,W,0.5,0.5,0,England,IL,0,1,0,0,0,0,0,0,0,0,0,0,N/A,800,0,Y
+,Olsen,B.,Anna ,79022,35,37,Farmer,keeping the house,Albert,0,3,2,0,1,1,0,0,0,0,1,0,0,1,W,0,0,0,Norway,Norway,0,0,0,0,0,0,0,0,0,1,0,0,1600,500,0,Y/N
+,Olson,Ole O.,Mary,,64,34,Farmer,Keeping the House,"Ole O. Jr., Maria, Dan, Malinda, Charlotte",Malina Thores,8,2,1,1,2,0,0,2,2,0,1,0,1,W,0,0,0,Norway,Norway,0,0,0,0,0,0,0,0,0,1,0,0,1400,900,0,Y
+,Parks,Matthew ,Susan,,26,30,Farmer,Keeping the House,0,0,2,2,0,1,1,0,0,0,0,0,0,0,0,W,1,1,0,IL,OH,0,0,0,0,0,0,0,0,0,0,0,0,N/A,600,0,Y
+,Parks,,Phoebe,79023,,56,,Keeping the House,"Mary, John N., George W.",0,4,4,0,2,2,0,0,0,0,0,0,1,0,W,1,1,0,,NY,0,0,0,0,0,0,0,0,0,0,0,0,6000,800,0,Y
+,Patrick,"Samuel, Jr.",Agnes,,27,24,Farmer,Keeping the House,"Elmoth (?), George, Samuel Sr.",0,5,3,0,2,1,0,0,0,0,2,0,0,0,W,0.5,0.5,0,NY,Ireland,0,0,0,0,0,1,0,0,0,0,0,0,N/A,800,0,Y
+,Pearsons,Bartholamule,Rosetta,,24,20,Farmer,Keeping the House,"Lizzie, (No name)",Thomas Bird,5,2,1,2,1,0,0,0,0,0,2,0,0,W,1,1,0,WI,IN,0,0,0,0,0,0,0,0,0,0,0,0,N/A,500,0,Y
+,Peirce,C.W.,Matilda,79024,31,30,Farmer,Keeping the house,"George, Frank, Seth",0,5,2,0,1,1,0,0,0,0,3,0,0,0,W,0.5,0.5,0,IN,England,0,1,0,0,0,0,0,0,0,0,0,0,3600,1200,0,Y
+,Perry,G.S. ,Mary,,36,39,Farmer,Keeping the House,"Mira, Cora, Charles, Maud",0,6,2,0,1,1,0,0,1,2,0,1,3,0,W,1,0,0,ME,NH,0,0,0,0,0,0,0,0,0,0,0,0,1200,1000,0,Y
+,Peters ,Henry ,Margarett ,79026,44,37,Farmer,Keeping the House,"Henry Jr., Mary, Matthew",Gus Nelson,6,2,1,2,1,0,0,1,0,1,1,1,1,W,0,0,0,Hanover (Germany),Holstein (Germany),0,0,0,0,1,0,0,0,0,0,1,0,1100,1000,0,N
+,Phelk,H.M,Rebecca,,44,44,Farmer,keeping house,"Henry A., Nancy M. Mary, Lovinia, Frances, Ettie, Cattee, Charles",0,10,2,0,1,1,0,0,1,6,1,0,7,1,W,1,1,0,NY,NY,0,0,0,0,0,0,0,0,0,0,0,0,NA,1000,0,Y
+,Phillips ,A. P.,Maria Y.,,42,37,Farmer,keeping house,"Sarah, Grace, Lucius?",John Peacock,6,2,1,2,1,0,0,1,2,0,0,3,0,W,1,1,0,NY,NY,0,0,0,0,0,0,0,0,0,0,0,0,4000,2000,0,Y
+,Pierce ,S. G. C. ,Ester M.,79027,34,25,Farmer,Keeping the House,"Austin P., Byron B., Edna L., Geneva M., Lucia","Arne Johnson, Udoyes Granville ",9,2,2,3,1,0,0,2,1,0,2,3,0,W ,1,1,0,NY,NH,0,0,0,0,0,0,0,0,0,0,0,0,9000,2200,0,Y
+,Pierce ,Peter S.,Margarett,,62,59,Carpenter ,Keeping the house,Isaac N. ,Charles Sarson,4,3,1,3,1,0,0,0,0,0,0,0,0,W ,1,1,0,OH,PA,0,0,0,0,0,0,0,0,0,0,0,0,4000,1800,0,3Y
+,Pierce ,J. G. ,Emily S.,79025,62,57,Farmer,Keeping the House ,"Charles F., Alice L. ",0,4,3,0,2,1,0,0,0,1,0,0,1,0,W,1,1,0,CT,NY,0,0,0,0,0,0,0,0,0,0,0,0,,,0,Y
+,Plough,Matthew ,Angelica,,45,40,Farmer,Keeping the House,"Alexander, Ella, Mary, Edward Charles ",,7,4,0,2,2,0,0,1,1,1,0,1,0,W,1,1,0,NY,NY,0,0,0,0,0,0,0,0,0,0,0,0,7500,5000,0,Y
+,Plough,N.H.,Clara F.,,36,36,Farmer,Keeping the House,Elinor E.,"Charles Schnale, Anthony Magoris",5,2,2,3,1,0,0,0,1,0,0,0,0,W,1,1,0,NY,NY,0,0,0,0,0,0,0,0,0,0,0,0,2500,1500,0,3Y
+,Porter,Josiah,Lucy,,71,72,Retired farmer,Keeping the House,0,0,2,2,0,0,0,1,1,0,0,0,0,0,0,W,1,1,0,ME,MA,0,0,0,0,0,0,0,0,0,0,0,0,3500,1000,0,Y
+,Porter,Jamie V. ,Tha?,,30,23,Farmer,Keeping the House,"Etta, Lucyann, Matthew",0,5,2,0,1,1,0,0,0,1,1,1,1,0,W,1,1,0,ME,NY,0,0,0,0,0,0,0,0,0,0,0,0,2000,150,0,Y
+,Poyneer,D.H. ,L. A. ,,34,24,Runs railroad boarding house,Keeping the House,Henry,"R. Wallace, M. Guirey, Charles Omala, C. Edward, F. Sethinge, M. Ft Gothrie, J. Hammond, Seth Humphrey, Owens Sury, Nicholas Wourphy, John Golden, John McNeal, J.D. Smith, J.R. Joner, H. Henenau",18,2,15,16,1,0,0,0,0,1,0,0,0,w,1,1,0,MA,OH,0,0,0,0,1,1,0,0,0,0,0,0,N/a,N/A,0,All Y
+,Preston,H.J.,Eliza A.,,35,35,Carpenter,Keeping the House,"Frank A., Edar?, Mary E., Henry ",0,6,2,0,1,1,0,0,2,1,1,0,3,0,W,1,1,0,VT,NY,0,0,0,0,0,0,0,0,0,0,0,0,3500,800,0,Y
+,Quibey,Linal,Anna,79028,42,38,Farmer,Keeping the House,"David, Ida, Burtin, Jenny, Alta",0,7,3,0,2,1,0,0,1,2,0,1,3,0,W,1,1,0,NY,NY,0,0,0,0,0,0,0,0,0,0,0,0,2500,1000,0,2Y
+,Rahm,Anthony ,Elizabeth ,,30,25,Day Laborer,Keeping the House ,"Henry, Mary, Jacob",0,5,2,0,1,1,0,0,1,0,1,1,0,0,W,0.5,0.5,0,Roden (Germany),PA,0,0,0,0,1,0,0,0,0,0,0,0,N/a,100,0,Y
+,Reeves,William,Sarah,,24,21,Farmer,Keeping the House,"Ace, George",G.M. Hampton,5,2,0,1,1,0,0,1,0,1,1,1,0,W,1,1,0,KY,IL,0,0,0,0,0,0,0,0,0,0,0,0,N/A,300,0,Y
+,Reves,Asa?,Elizabeth,,54,53,Farmer,keeping house,Allice,0,3,2,0,1,1,0,0,0,1,0,0,0,0,W,1,1,0,KY,KY,0,0,0,0,0,0,0,0,0,0,0,0,1800,340,0,Y
+,Rice ,John N. ,Amy A.,,37,36,Farmer,Keeping the House ,"Orilla E., Eva A., John S., Frank F., Earnest, Lizzie ",0,8,2,0,1,1,0,0,2,2,1,1,4,0,W ,1,1,0,PA,PA,0,0,0,0,0,0,0,0,0,0,0,0,,,0,Y
+,Ridley ,Charles ,Maria A.,79029,29,24,Farmer,Keeping the house,"Maria E., Julia",George Nermington,5,2,1,2,1,0,0,0,0,0,1,0,0,W,0.5,0.5,0,ME,England ,0,1,0,0,0,0,0,0,0,0,0,0,13000,2000,0,Y
+,Roldrick,Thor ,Mary ,,25,20,Farmer,keeping the house,George,"Charles Jeffers, James Briers ",5,3,2,3,1,0,0,1,0,0,0,1,0,W,0,0,0,Canada ,Canada,0,0,0,1,0,1,0,0,0,0,0,0,2750,800,0,N
+,Rutledge,Adam,Catherin,,29,24,Farmer,Keeping the house,"David M, Charles",Hariett Howell,5,2,0,1,1,0,0,1,1,2,0,1,0,W,1,1,0,IL,TN,0,0,0,0,0,0,0,0,0,0,0,0,N/A,300,0,Y
+,Rutledge,David M. ,Mary ,,57,48,Farmer,Keeping the house,"Graff, Elsie E.",0,4,3,0,2,1,0,0,0,1,0,0,2,0,W ,1,1,0,KY,IN,0,0,0,0,0,0,0,0,0,0,0,0,5000,1100,0,Y
+,Schoemaker,D.W.,Carrie,,24,22,Farmer,Keeping the House,0,Matthew Webster,3,2,0,1,1,0,0,1,0,0,0,0,0,W,1,1,0,NY,NY,0,0,0,0,0,0,0,0,0,0,0,0,8000,2000,0,Y
+,Sears,Elisha,,,65,,Farmer ,,"Mayword, Matton A.",0,3,2,0,1,0,1,0,1,0,0,0,2,0,W,1,1,0,CT,,0,0,0,0,0,0,0,0,0,0,0,0,4000,8000,0,Y
+,Sharke,Edward,Mary,,37,29,Farmer,Keeping the House,"Martha, Margritt, Breckingridge, Lucy B",0,6,2,0,1,1,0,0,1,2,0,1,2,1,W,1,1,0,IN,IN,0,0,0,0,0,0,0,0,0,0,0,0,N/A,800,0,Y
+,Shaw,Alex,Abbie ,,47,44,Farmer,Keeping the House ,"Ralph C., James E., Charles W. ",0,5,2,0,1,1,0,0,3,0,0,0,0,0,W,1,1,0,PA,CA,0,0,0,0,0,0,0,0,0,0,0,0,,,1,Y
+,Shaw,C.D.,H.E.,,46,43,Farmer,Keeping the House,"T.M., L.A., F.W., W.K., H.A.",0,7,3,0,2,1,0,0,3,0,1,0,4,0,W,1,1,0,MA,MA,0,0,0,0,0,0,0,0,0,0,0,0,13500,5000,0,Y
+,Sherman,L.N.,Ana H.,79030,37,41,Farmer,Keeping the House,Clara,"D.W. Little, James Law",5,3,2,3,2,0,0,0,0,0,0,1,0,W,1,1,0,NH,NH,0,0,0,1,0,0,0,0,0,0,0,0,12000,4000,0,3Y
+,Simpson,Thomas ,Sarah ,,25,22,Farmer,Keeping the house,"Lola, Jessie ",0,4,2,0,1,1,0,0,0,0,0,2,0,0,W,1,1,0,OH,IA,0,0,0,0,0,0,0,0,0,0,0,0,N/A,100,0,Y
+,Sivenson,L.,,79031,36,,Farmer,,"Anna, Betsy",0,3,3,0,1,1,0,1,0,0,0,0,0,1,W,0,0,0,Norway,,0,0,0,0,0,0,0,0,0,1,0,0,N/A,N/A,0,N/N
+,Snow,Eraslus,Sophia ,,50,34,Farmer,Keeping the house,Sumner,"A.B. Stewart, Mary Stewart",5,2,2,2,2,0,0,1,0,0,0,1,0,W,1,0,0,NH,NJ,0,0,0,0,0,0,0,0,0,0,0,0,16000,9075,0,2Y
+,Sparks ,Benjamin,Emma,,24,20,Farm Laborer,keeping house,0,0,2,2,0,1,1,0,0,0,0,0,0,0,0,W,1,1,0,IN,OH,0,0,0,0,0,0,0,0,0,0,0,0,NA,100,0,Y
+,Spear,Jeremiah,Martha,,43,43,Carpenter,Keeping the House,"Mary, Henry, Merritt, Nesley, Ansu, Josephine, Minnie, Rufus, Carrie",0,11,3,0,2,1,0,0,3,3,1,1,6,0,W,0,0,0,Canada,Ireland,0,0,0,1,0,1,0,0,0,0,0,0,10000,500,0,Y
+,Squire,George B.,Sally A,,29,19,Farmer,Keeping the House ,"Jessie, Pamelia E., Hiram, Wilber ",0,6,4,0,2,2,0,0,1,0,0,1,1,0,W,1,1,0,OH,PA,0,0,0,0,0,0,0,0,0,0,0,0,,,0,2Y
+,Stewart,Joel,Anna M.,,36,43,Farmer,Keeping the House,Joseph,"Henry Brookman, Matthew Davis, Mary Jones",6,3,2,4,1,0,0,0,1,0,0,0,0,W,1,1,0,NY,NY,0,0,0,0,0,0,0,0,0,0,0,0,16000,10000,0,2Y
+,Swanson,Gundi,Caroline,,26,19,Farmer,keeping the house,Anna,0,3,2,0,1,1,0,0,0,1,0,0,1,1,W,0,0,0,Norway,Norway,1,0,0,0,0,0,0,0,0,1,0,0,N/A,400,0,N
+,Syons,C. N.,Julia A.,,25,24,Farmer,Keeping the House,"Julia M., Gillian",0,4,2,0,1,1,0,0,0,0,0,2,0,0,W,1,1,0,OH,IL,0,0,0,0,0,0,0,0,0,0,0,0,400,200,0,Y
+,Telforo,Jacob,Mary,,37,31,Farmer,Keeping the House ,0,"Mattie Stokes, Olive Montgomery, Merritt Warren",5,2,2,2,2,0,0,0,1,0,0,1,0,W,1,1,0,NY,NY,0,0,0,1,0,0,0,0,0,0,0,0,2500,1000,0,2Y
+,Thompson,R.H. ,Betsey ,,36,32,Farmer ,Keeping the House ,"C.H., Fred E., Allen P., Jennie ",0,6,2,0,1,1,0,0,3,0,0,1,3,0,W,1,1,0,VT,VT,0,0,0,0,0,0,0,0,0,0,0,0,700,400,0,Y 
+,Totten,David B,Elizabeth,,37,34,Farmer,keeping house,"Janus, jamie",Scove Andrew,5,2,1,2,1,0,0,1,1,0,0,2,0,W,1,1,0,NY,NY,0,0,0,0,0,0,0,0,0,1,0,0,6500,1200,0,DY/ ANN
+,Vantresse,David,Nancy A,79032,40,38,Farmer,Keeping the House ,"H.C., Mary M., Thomas F., Sarah, Rachel, Nuldah",0,8,2,0,1,1,0,0,2,3,0,1,4,0,W,1,1,0,OH,IN,0,0,0,0,0,0,0,0,0,0,0,0,3000,800,0,Y
+,Villard ,James ,Mariah,,27,37,Farmer,Keeping the House ,0,0,2,2,0,1,1,0,0,0,0,0,0,0,0,W,1,1,0,NY,NY,0,0,0,0,0,0,0,0,0,0,0,0,,,0,Y
+,W?nson,O. H.,Winona,,67,64,Farmer,Keeping the House ,"George A., Harriett, Henry O.",Charles Johnson,6,4,1,2,2,1,0,1,0,0,0,0,0,W,1,1,0,VT,VT,0,0,0,0,0,0,0,0,0,0,0,0,,,0,3Y
+,Warren,W.C.,C.S.,,39,43,Farmer,Keeping the House,"James M., Margarett, C.S. ",0,5,2,0,1,1,0,0,2,1,0,0,3,0,W,1,1,0,TN,NY,0,0,0,0,0,0,0,0,0,0,0,0,1000,500,0,Y
+,Wells,A(unreadable),Mary E. ,,37,31,Butcher,keeping the house,"Fred, Frank",0,4,3,0,1,1,0,0,1,0,1,0,1,0,W,1,1,0,NY,NY,0,0,0,0,0,0,0,0,0,0,0,0,N/A,100,0,Y
+,Weston,Byron,Phoebie,,28,28,Farmer,keeping house,Susan,0,3,2,0,1,1,0,0,0,0,0,1,0,0,W,1,1,0,NY,NY,0,0,0,0,0,0,0,0,0,0,0,0,2000,800,0,Y
+,Wheaton,James,Mary A.,79033,56,43,Farmer,Keeping the House,"John G., Mary, Charley, George ",0,6,2,0,1,1,0,0,3,1,0,0,4,0,W,1,1,0,VT,VT,0,0,0,0,0,0,0,0,0,0,0,0,6000,500,0,Y
+,Whitney,Richard,Mary,79034,47,38,Farmer,keeping house,"Mary, May, Gia?","Emma Fawcett, Lucinda Fawcett, W.A ?",7,2,3,3,2,0,0,1,1,0,0,2,0,W,1,1,0,VT,VT,0,0,0,0,0,0,0,0,0,0,0,0,8200,500,0,Y
+,Willam?th,Nicholas ,Mary A.,,39,39,Farmer ,Keeping the House ,"Andrew, George, Nicholas ",Ann Hartfell,6,3,1,2,2,0,0,2,0,0,0,3,0,W,0.5,0.5,0,France,PA,0,0,0,0,0,0,0,0,1,0,0,0,5000,1500,0,Y
+,Willard,William,Emma E.,,29,29,Farmer,Keeping the House,Frank E.,"John Dougan, William Duffin, Fred Hoyt, John Clark, Loiver Dickinson, Jesse Dickenson ",9,2,6,7,1,0,0,0,0,1,0,0,0,W,1,1,0,IL,NY,0,0,0,0,0,1,0,0,0,0,0,0,10000,1000,0,6Y/1N
+,Williams,,Elizabeth,,,42,,Keeping the House ,"Margarett, Martha G., George T., Mary E.","Worth Noble, Unace Noble, Delloria Noble, Herbert Noble",9,2,3,1,4,0,0,2,2,0,0,8,0,W,0,0,0,,England,0,1,0,0,0,0,0,0,0,0,0,0,7000,1000,0,No men
+,Wood,M.C.,Mary E. ,,52,42,Farmer,Keeping the House,"A.B., H.G., Laura",0,5,5,0,3,2,0,0,0,0,0,0,2,0,W,1,1,0,NC,KY,0,0,0,0,0,0,0,0,0,0,0,0,1500,300,0,2Y
+,Woodward ,C ?,,,53,,Farmer,,"Lucy, Charles",0,3,0,0,1,0,0,0,1,1,0,0,2,0,W,1,1,0,NH,,0,0,0,0,0,0,0,0,0,0,0,0,4000,625,0,Y
+,Woomer,Wesley,Katie,,24,23,Farmer,Keeping the House,Charles W.,0,3,2,0,1,1,0,0,0,0,1,0,0,0,W,0.5,0,0,PA,Rhineland (Germany),0,0,0,0,1,0,0,0,0,0,0,0,,,0,Y
+,Woomer ,Adam ,Jane,79035,52,43,Farmer,Keeping the House,"Harvey, Jennie",0,4,4,0,2,2,0,0,0,0,0,0,0,0,W,1,1,0,PA,PA,0,0,0,0,0,0,0,0,0,0,0,0,8400,2000,0,2Y
