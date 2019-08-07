@@ -2,7 +2,7 @@
 
 ## Types of Data
 
-Within the broader landscape of the digital humanities, datasets are often described based on the type of data they contain. In the digital storytelling unit, you worked with physical primary sources that had been digitized.
+Within the broader landscape of the digital humanities, datasets are often described based on the type of data they contain.
 
 The Iowa Township data is largely a quantitative data set, built on numeric and calculated data. Later in the semester, we’ll be using text files of Scarlet &amp; Black student newspaper issues as a data source for textual analysis.
 
@@ -160,9 +160,8 @@ However, even though data can be stored in a stable file format for long-term pr
 
 ## Exploring the Iowa Township Data
 
-Navigate to \\storage\projects\HIS\HIS-295-02\Iowa_Township_Data\1870s\1870_Census_Data in File Explorer and open the 1870 Federal Census Grinnell Township file in Microsoft Excel.
+Download the 1870_Federal_Census_Grinnell_Township.csv and 1870_Grinnell_City_Census.csv files from this GitHub repo. Open both files in Microsoft Excel.
 
-In the same folder, open the 1870 Grinnell City Census file in Microsoft Excel.
 
 ### Reflection Questions:
 <ul>
