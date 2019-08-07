@@ -1,10 +1,5 @@
 # Introduction to Data
 
-As you learned in the digital storytelling unit, both physical and digital information needs to have some level of organization and description to make it accessible and usable. In this tutorial, we’ll use a historical data set to think about the types of datasets historians can use, as well as how we can describe and organize that data.
-<blockquote><em>Exploring Big Historical Data: </em>Chapters 2 and 6</blockquote>
-
-<hr />
-
 ## Types of Data
 
 Within the broader landscape of the digital humanities, datasets are often described based on the type of data they contain. In the digital storytelling unit, you worked with physical primary sources that had been digitized.
@@ -15,7 +10,7 @@ The authors of <em>Exploring Big Historical Data </em>give us additional terms t
 
 Some of these would be considered raw data sources, while others (like relational data) can be thought of as a type of metadata—or data about data.
 
-<em>Using the terms presented in </em>Exploring Big Historical Data <em>and other frameworks, how would you describe the different fields (or columns) in the Iowa Township Project data? How does understanding the type of data inform or shape the research questions you might have?</em>
+Using the terms presented in <em>Exploring Big Historical Data </em>and other frameworks, how would you describe the different fields (or columns) in the Iowa Township Project data? How does understanding the type of data inform or shape the research questions you might have?
 
 <hr />
 
@@ -113,6 +108,7 @@ The process of getting data into a structured from is often called data wranglin
 &nbsp;
 
 As another example, later in the semester we’ll be working with textual data from digitized S&amp;B issues. Browse the <a href="http://usiagrc.arcasearch.com/Research.aspx?p=a5675f16-3614-4a71-889f-6dc645e3de47">digitized versions of the S&amp;B publication</a>, and compare that to the text file excerpted below.
+
 <blockquote>
 <pre>The name of this association shall he the
 SCARLET AND BLACK Assn iATioN in: Iowa
@@ -132,7 +128,9 @@ subscription price of the paper. may he-
 comea member of the Assot‘iATtoN for that
 year. and shall be. entitled to a vote in the
 meetings of the. Asst’i:iATio.\' if present</pre>
-</blockquote>
+
+### Reflection Question
+
 What steps were necessary to transform the data from the original source to the text file? How much time do you think it took for this data to be wrangled into a text file?
 
 <hr />
@@ -165,13 +163,14 @@ However, even though data can be stored in a stable file format for long-term pr
 Navigate to \\storage\projects\HIS\HIS-295-02\Iowa_Township_Data\1870s\1870_Census_Data in File Explorer and open the 1870 Federal Census Grinnell Township file in Microsoft Excel.
 
 In the same folder, open the 1870 Grinnell City Census file in Microsoft Excel.
-<blockquote>
+
+### Reflection Questions:
 <ul>
  	<li>What fields are included in these two data sets? What types of data are recorded in the Excel files?</li>
  	<li>What questions do you have about the data--how it was gathered, organized, or structured?</li>
  	<li>What types of research questions could you explore or address using this data? What types of questions would not be a good fit for this data?</li>
 </ul>
-</blockquote>
+
 However, even though data can be stored in a stable file format for long-term preservation, those file types may not be the best way to interact with the data for analysis and visualization. For example, storing a large complex data set in a single CSV sheet might not be the most efficient way to analyze or visualize particular aspects or features of our data.
 
 Another way we can think about the structure of data is organizing it as a series of entities, attributes, and relationships. Those three elements are the foundation of entity-relationship diagrams (ERD) and data schema that are used to design and build databases. <a href="http://www.cs.uregina.ca/Links/class-info/215/erd/">Click here</a> to learn more about entity-relationship models and database structures.
@@ -188,7 +187,10 @@ Fields like "Number of...." in the 1870 Grinnell City Census file are an example
 
 The data in "Age..." fields is determined via calculations, based on a person's date of birth and the date the census information was recorded.
 
-<blockquote>What are other useful measures you can imagine for the township data? What types of calculations might help you more fully understand the data?</blockquote>
+### Reflection Questions:
+
+What are other useful measures you can imagine for the township data? What types of calculations might help you more fully understand the data?
+
 We can also think about the different between <em><strong>quantitative</strong> </em>and <em><strong>qualitative</strong></em> data analysis. As the authors of <em>Exploring Big Historical Data </em>point out in Chapter 5, even quantitative measures and calculations still involve a series of choices about how you label, organize, and analyze data. All data, data analyses, and data visualizations reflect a series of choices and decisions about information.
 
 <hr />
